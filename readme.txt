@@ -9,7 +9,7 @@ Stratus is a jQuery powered SoundCloud player that lives at the bottom (or top) 
 
 == Description ==
 
-This plugin allows you to quickly add Stratus to your Wordpress and customize as needed.
+Stratus is a jQuery powered SoundCloud player that lives at the bottom (or top) of your website or blog. This plugin allows you to quickly add Stratus to your Wordpress and customize as needed.
 
 == Installation ==
 
