@@ -1,17 +1,16 @@
-=== Plugin Name ===
-Contributors: Lee Martin
-Plugin Name: Stratus
-Plugin URI: http://stratus.sc
+=== Stratus ===
+Contributors: leemartin
 Tags: music, player, soundcloud, stratus
-Author URI: http://lee.ma/rtin
-Author: Lee Martin
 Requires at least: 2.8
-Tested up to:      3.1
-Stable tag:        1.0.0
-Version:           1.0.0
+Tested up to: 3.1
+Stable tag: 1.0.0
 
-== Description ==
 Stratus is a jQuery powered SoundCloud player that lives at the bottom (or top) of your website or blog.
 
+== Description ==
+
+This plugin allows you to quickly add Stratus to your Wordpress and customize as needed.
+
 == Installation ==
-An installation guide may be found here: http://stratus.sc
+
+An installation guide may be found at <a href="http://stratus.sc/guides#wordpress">stratus.sc/guides</a>.
